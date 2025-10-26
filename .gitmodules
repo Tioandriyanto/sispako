@@ -1,0 +1,3 @@
+[submodule "sispako"]
+	path = sispako
+	url = https://github.com/Tioandriyanto/sispako
